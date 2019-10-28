@@ -207,7 +207,7 @@ Here is a selection of tools I use on a regular basis, or I found interesting ov
 ## Credits
 Thank you Anne-Laure Civeyrac for helping me through the whole writing process, reviewing and being so patient with aversion of deadlines.
 
-Thank you Noémie, Sofia and Guillaume for reviewing the article and for your suggestions.
+Thank you [Noémie](https://noemiegirard.co/), [Guillaume](https://github.com/Mogztter) and [Sofia](https://fr.linkedin.com/in/sofia-boulaarab-97468478) for reviewing the article and for your suggestions.
 
 Thank you Samantha Thackray for proofreading the article, fixing typos and improving the phrasing of the content.
 
